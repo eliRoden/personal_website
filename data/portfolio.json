@@ -1,0 +1,18 @@
+{
+    "name":"Eli",
+    "headerTaglineOne":"Hello 👋",
+    "headerTaglineTwo":"I'm Eli Roden",
+    "headerTaglineThree":"A computer science student from",
+    "headerTaglineFour":"Madison, Wisconsin.",
+    "showCursor":true,
+    "darkMode":true,
+    "socials":[
+        {"id":"1","title":"Github","link":"https://github.com/eliRoden"},
+        {"id":"2","title":"LinkedIn","link":"https://www.linkedin.com/in/elijah-roden-02b230257/"},
+        {"id":"5","title":"Email","link":"mailto:elijahleeroden@gmail.com"}
+    ],
+    "projects":[
+        {"id":"1","title":"Monkeycode","description":"Customizable React-based code typing test","imageSrc":"https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60","url":"https://eliroden.github.io/typing-game/"},
+        {"id":"2","title":"Multiplayer Chess Website","description":"Real-time multiplayer chess implemented with WebSockets","imageSrc":"https://images.unsplash.com/photo-1605153864431-a2795a1b2f95?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXwyNTY3ODl8fGVufDB8fHw%3D&auto=format&fit=crop&w=400&q=60","url":"https://multiplayerchessapp-u7ebr.ondigitalocean.app/"}
+    ]
+}
