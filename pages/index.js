@@ -50,6 +50,7 @@ export default function Home() {
     <div className={`relative`}>
       <Head>
         <title>{data.name}</title>
+        <link rel="icon" href="/favicon.ico" />
       </Head>
 
       <div className="gradient-circle"></div>
