@@ -1,6 +1,6 @@
-# Visit my personal website!
+## Visit my personal website!
 
-### Live - (TODO - add link)
+### Live - https://eli-personal.netlify.app/
 
 
 
